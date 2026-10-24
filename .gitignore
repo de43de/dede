@@ -1,6 +1,9 @@
 # 本地备份目录不上传
 _backup/
 
+# WorkBuddy 工作区数据（记忆/日志）
+.workbuddy/
+
 # 系统文件
 Thumbs.db
 .DS_Store
